@@ -1,0 +1,18 @@
+Sure thing, I can make the usual updates while you're away -JG
+
+
+__________________________________________________________________________
+From: Jillian Steves <jsteves@somebigcompany.com>
+Sent: Thursday, March 6, 2024
+To: John Greybeard <jgreybeard@somebigcompany.com>
+Subject: RE: Access to ftp and webserver while I'm away
+
+Hi John, thanks for looking after the webserver while I'm on vacaction. I hope I'm not asking too much :)
+
+I use the laptop in B216, but you can access it on the vpn (you should have an .opvn key). You can connect to it by ssh, UN:admin, PW:admin
+
+On the webserver, you can "get" and "put" any files you need in dir: /var/www
+
+Thanks Again!
+
+J
